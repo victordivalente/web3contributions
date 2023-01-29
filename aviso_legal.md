@@ -9,7 +9,7 @@
 
 ***Por favor, esteja ciente:***
 
-Eu sou um advogado admitido perante a filial do Estado do Rio de Janeiro da Ordem dos Advogados do Brasil. 
+Sou um advogado admitido perante a filial do Estado do Rio de Janeiro da Ordem dos Advogados do Brasil. 
 
 A menos que tenhamos firmado um contrato escrito fornecendo meus serviços jurídicos pagos, não sou seu advogado e não represento você ou seus interesses.
 
