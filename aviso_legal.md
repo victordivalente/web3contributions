@@ -17,11 +17,11 @@ De tempos em tempos, pratico a "advocacia autônoma", o que significa que, ao an
 
 Ao exercer a advocacia autônoma, não estou agindo em nome de meu escritório de advocacia, de qualquer outro empregador meu nem em nome de algum cliente (ou seja, aqueles com os quais assinei acordos me comprometendo a atuar como seus advogados. Se minhas opiniões expressas em contextos de advocacia autônoma forem imprecisas, não haverá recurso legal contra mim, haja vista que não exerço a advocacia em nome de comunidades descentralizadas.
 
-Para saber mais sobre a advocacia autônoma, consulte [link](https://lexnode.substack.com/p/autonomous-lawyering). 
+Para saber mais sobre a advocacia autônoma, consulte (https://lexnode.substack.com/p/autonomous-lawyering). 
 
-Como Membro Fundador da Bankless BR DAO [link](https://artigos.banklessbr.com/), tenho interesse econômico direto ou indireto na valorização de seus tokens.
+Como Membro Fundador da Bankless BR DAO (https://artigos.banklessbr.com/), tenho interesse econômico direto ou indireto na valorização de seus tokens.
 
-Do meu tempo como advogado no Fc²mlaw [link](https://www.fcm.law/), participei direta ou indiretamente da construção dos seguintes projetos lançados:
+Do meu tempo como advogado no Fc²mlaw (https://www.fcm.law/), participei direta ou indiretamente da construção dos seguintes projetos lançados:
 
 * Spriz NFT Series (Reserva)
 * Projeto de NFTs Beats (Ambev)
