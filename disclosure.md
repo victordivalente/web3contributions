@@ -1,7 +1,7 @@
-# AVISO LEGAL - VICTOR VALENTE/@victordivalente
+# DISCLOSURE - VICTOR VALENTE/@victordivalente
 
 ----
-Última Atualização: 29/01/2023
+Última Atualização: 30/01/2023
 
 ***Não assumo nenhum dever nem forneço garantia de manter esse aviso completo ou atualizado, mas pretendo atualizá-lo de tempos em tempos para refletir as mudanças que considero suficientemente relevantes para justificar sua divulgação.***
 
@@ -31,4 +31,5 @@ Do meu tempo como advogado no Fc²mlaw (https://www.fcm.law/), participei direta
 * Blockchain Rio Festival
 * metaKosmos
 * BlockBR
+* radarweb3
 
