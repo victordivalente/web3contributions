@@ -1,7 +1,7 @@
-# DISCLOSURE - VICTOR VALENTE/@victordivalente
+# DISCLOSURE - VICTOR VALENTE
 
 ----
-Última Atualização: 30/01/2023
+Última Atualização: 20/04/2023
 
 ***Não assumo nenhum dever nem forneço garantia de manter esse aviso completo ou atualizado, mas pretendo atualizá-lo de tempos em tempos para refletir as mudanças que considero suficientemente relevantes para justificar sua divulgação.***
 
@@ -19,9 +19,9 @@ Ao exercer a advocacia autônoma, não estou agindo em nome de meu escritório d
 
 Para saber mais sobre a advocacia autônoma, consulte (https://lexnode.substack.com/p/autonomous-lawyering). 
 
-Como Membro Fundador da Bankless BR DAO (https://artigos.banklessbr.com/), tenho interesse econômico direto ou indireto na valorização de seus tokens.
+Como Membro Fundador da Bankless BR DAO (https://artigos.banklessbr.com/), tenho interesse econômico direto ou indireto no desenvolvimento do projeto.
 
-Do meu tempo como advogado no Fc²mlaw (https://www.fcm.law/), participei direta ou indiretamente da construção dos seguintes projetos lançados:
+No meu tempo como advogado no Fc²mlaw (https://www.fcm.law/), participei direta ou indiretamente da construção dos seguintes projetos lançados:
 
 * Spriz NFT Series (Reserva)
 * Projeto de NFTs Beats (Ambev)
@@ -32,4 +32,3 @@ Do meu tempo como advogado no Fc²mlaw (https://www.fcm.law/), participei direta
 * metaKosmos
 * BlockBR
 * radarweb3
-
